@@ -1,0 +1,9 @@
+name = "image-processor"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "db"
+database_id = "21b7a780-1b54-4674-a08e-e7b0c9353ad0"
+
